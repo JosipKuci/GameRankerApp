@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36755821594",
+    "project_id": "orwma-projekt-kuci",
+    "storage_bucket": "orwma-projekt-kuci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36755821594:android:73db4762366a2bcd6c2da3",
+        "android_client_info": {
+          "package_name": "com.example.gameranker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVxY-IL-ji20CWeOOS_LrOnBueX0c_7rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
